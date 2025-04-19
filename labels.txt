@@ -1,0 +1,4 @@
+    labels = {
+        "0": "Pussy Cat", 
+        "1": "Doggie"
+    }
